@@ -1,0 +1,2 @@
+# Marketing-for-Frequent-flyers-Targeting-different-segments-for-specific-offers
+Performed data wrangling and data transformation to prepare the data into a suitable form for analysis. Segregated around 4000 passengers in different segments based on their mileage history and patterns of miles spent over the past 1 year, performed cluster analysis using K-means and Hierarchical algorithms in R. Designed customized offers based on the interpreted results of the clusters.
